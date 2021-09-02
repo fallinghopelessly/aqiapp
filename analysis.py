@@ -21,7 +21,7 @@ def main():
 	
 
 	# Read Data
-	df = pd.read_csv("aqidata.csv")
+	df = pd.read_csv("../Data/aqidata.csv")
 	# Show Dataset
 
 	
