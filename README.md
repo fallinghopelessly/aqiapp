@@ -1,5 +1,7 @@
 # AQI Prediction & Analysis 
 
+![](img/aqi.gif)
+
 This project aims to predict AQI Air Quality Index of a place at a given time.
 
 ## Steps Taken :
@@ -12,3 +14,4 @@ We explore the data and try and gain insights from it. Using Data Visualization 
 
 ### Model prediction :-
 Using RandomForestRegressor we gain 80 percent accuracy on the test data
+
