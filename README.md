@@ -1,17 +1,34 @@
 # AQI Prediction & Analysis 
 
+## About The Project
 ![](img/aqi.gif)
 
 This project aims to predict AQI Air Quality Index of a place at a given time.
+## Live Application URL
+This URL has the application deployed in
+### https://my-aqi-app.herokuapp.com
 
-## Steps Taken :
 
-### Data Collection :- 
-The data for the model was collected by data scraping the past few years data of what factors affect the level of PM2.5
+**Features:**
+ - Temperature (°C)
+ - Wind Speed (Km/h)
+ - Pressure (Pa)
+ - NO2 (ppm)
+ - Rainfall (Cm)
+ - PM10 (μg/m3)
+ - PM2.5 (μg/m3)
+ - AQI
 
-### Exploratory Data Analysis :-
-We explore the data and try and gain insights from it. Using Data Visualization libraries like matplotlib and seaborn we try to see what our data looks like and what features have a higher impact on the PM2.5 values.
 
-### Model prediction :-
-Using RandomForestRegressor we gain 80 percent accuracy on the test data
+### Built With
 
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+- [Breezometer API](https://www.breezometer.com/) [openweathermapAPI](https://openweathermap.org/)
+- [Streamlit](https://streamlit.io/)
+
+Libraries for exploratory data analysis and model prediction
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [seaborn](https://seaborn.pydata.org/)
