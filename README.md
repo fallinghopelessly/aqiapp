@@ -1,9 +1,9 @@
-# AQI Prediction & Analysis 
+# AQI Prediction 
 
 ## About The Project
 ![](img/aqi.gif)
 
-This project aims to predict AQI Air Quality Index of a place at a given time.
+AQI prediction application is an application which predicts AQI Air Quality Index along with the .
 ## Live Application URL
 This URL has the application deployed in
 ### https://my-aqi-app.herokuapp.com
@@ -32,3 +32,5 @@ Libraries for exploratory data analysis and model prediction
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [seaborn](https://seaborn.pydata.org/)
+
+Check out the jupyter notebook of the EDA and streamlit app [here](https://github.com/kanak-b/aqi-eda)
