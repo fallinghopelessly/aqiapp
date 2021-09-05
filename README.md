@@ -6,7 +6,7 @@
 AQI prediction application is an application which predicts AQI Air Quality Index along with the .
 ## Live Application URL
 This URL has the application deployed in
-### https://my-aqi-app.herokuapp.com
+### [DEMO](https://my-aqi-app.herokuapp.com)
 
 
 **Features:**
