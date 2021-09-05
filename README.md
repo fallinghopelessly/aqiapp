@@ -3,7 +3,7 @@
 ## About The Project
 ![](img/aqi.gif)
 
-AQI prediction application is an application which predicts AQI Air Quality Index along with the .
+AQI prediction application is an application which predicts AQI Air Quality Index along with providing the user an informational application about AQI
 ## Live Application URL
 This URL has the application deployed in
 ### [DEMO](https://my-aqi-app.herokuapp.com)
